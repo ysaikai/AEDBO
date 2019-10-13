@@ -1,5 +1,5 @@
 # Adaptive experimental design using Bayesian optimization to improve the cost efficiency of small-plot field trials
-by Yuji Saikai, [Vivak Patel](http://pages.stat.wisc.edu/~vrpatel6/), Shawn Conley, and [Paul Mitchell](https://aae.wisc.edu/faculty/pdmitchell/)
+by Yuji Saikai, [Vivak Patel](http://pages.stat.wisc.edu/~vrpatel6/), Shawn P. Conley, and [Paul D. Mitchell](https://aae.wisc.edu/faculty/pdmitchell/)
 
 **Abstract**
 
